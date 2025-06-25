@@ -1,3 +1,5 @@
+# WORK IN PROGRESS REPO
+
 ## PSICHIC: physicochemical graph neural network for learning protein-ligand interaction fingerprints from sequence data [[Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00847-1)]
 
 <img src="image/PSICHIC.jpg" width="500"/>
